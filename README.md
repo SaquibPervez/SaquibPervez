@@ -62,6 +62,11 @@
 ---
 
 ### 📊 My GitHub Stats
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaquibPervez&theme=gruvbox&row=2&column=3" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaquibPervez&show_icons=true&theme=tokyonight" />
