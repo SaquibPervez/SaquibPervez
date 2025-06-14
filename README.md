@@ -62,26 +62,19 @@
 ---
 
 ### 📊 My GitHub Stats
-
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaquibPervez&theme=gruvbox&row=2&column=3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaquibPervez&show_icons=true&theme=tokyonight" />
 </p>
-
-<h3 align="center">🔥 GitHub Streaks</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaquibPervez&theme=tokyonight" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saquibpervez&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquibpervez&layout=compact&theme=radical" height="180" alt="Top Languages" />
-</div>
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaquibPervez&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
