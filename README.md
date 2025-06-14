@@ -62,7 +62,6 @@
 ---
 
 ### 📊 My GitHub Stats
-<h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaquibPervez&show_icons=true&theme=tokyonight" />
@@ -78,7 +77,7 @@
 
 ---
 
-### 🧠 Quote of the Day
+### 🧠 Quote
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
