@@ -1,93 +1,89 @@
-###
- <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE3MXUxc3A0eW9ubXR6MzhoaXBwOWdnZmNvZm1lc21ibjNmMzNhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" />
-<h1 align="center">Hey there 👋, I'm Saquib Pervez</h1>
-<p align="center">A passionate Frontend Developer from Pakistan 🇵🇰</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/saquib-pervez-aa3774273" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/saqib__pervez?igsh=N2xjNmY0NXdtejky" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  <a href="mailto:saqibpervezmughal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-</div>
-
----
-
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Frontend Developer**
-- 🌱 Learning **Next.js** and improving my full-stack skills
-- 🛌 In my free time, I love to **sleep** and occasionally binge tutorials 😉
+I'm **Saquib Pervez**, a passionate **Frontend Developer** from **Pakistan** 🇵🇰. I specialize in building modern, performant web applications with clean code and intuitive user interfaces.
+
+**What drives me:**  
+🔭 Currently building responsive web experiences as a professional Frontend Developer  
+🌱 Deepening my expertise in **Next.js** and expanding into full-stack development  
+💡 Enjoy solving complex problems with elegant, maintainable solutions  
+🛌 When not coding, I value quality rest and continuous learning through tech tutorials  
+
+I believe in creating digital products that are not only functional but also delightful to use, combining technical precision with thoughtful design.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg](https://cdn.brandfetch.io/idlqZpnu18/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B)" height="40" alt="Strapi" />
-</div>
-</div>
+**Frontend Development:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
 
+**Backend & CMS:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?logo=strapi&logoColor=white)
+
+**Programming Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+**Tools & Platforms:**  
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+
+**Currently Learning:**  
+![Next.js](https://img.shields.io/badge/Advanced_Next.js-000000?logo=next.js&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi_Mastery-2F2E8B?logo=strapi&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript_Deep_Dive-3178C6?logo=typescript&logoColor=white)
 
 ---
 
-### 📊 My GitHub Stats
+### 🚀 What I Bring to the Table
+
+- **Modern Frontend Expertise**: Building with React, Next.js, and TypeScript for scalable applications
+- **Full-Stack Mindset**: Understanding both frontend and backend architecture
+- **Performance Focus**: Optimizing applications for speed and user experience
+- **Responsive Design**: Creating interfaces that work beautifully across all devices
+- **Clean Code**: Writing maintainable, well-documented solutions
+- **Continuous Learning**: Staying updated with the latest web technologies and best practices
+
+---
+
+### 📊 GitHub Analytics
+
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=SaquibPervez&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaquibPervez&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SaquibPervez&show_icons=true&count_private=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+  | **Stats** | **Streak** | **Languages** |
+  | :---: | :---: | :---: |
+  | <img src="https://github-readme-stats.vercel.app/api?username=SaquibPervez&show_icons=true&count_private=true&theme=radical&hide=prs,issues" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaquibPervez&theme=radical" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaquibPervez&layout=compact&theme=radical" alt="Top Languages" /> |
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaquibPervez&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaquibPervez&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-### 🧠 Quote
+### 📬 Let's Connect
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+I'm always open to discussing web development, collaborating on interesting projects, or just having a tech chat!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/saquib-pervez-aa3774273" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/saqib__pervez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="mailto:saqibpervezmughal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
 
 ---
 
+### 💭 Development Philosophy
+
+> **"First, solve the problem. Then, write the code."** – John Johnson
+
+I approach every project with this mindset, ensuring that the solution is well-understood before implementation begins. This leads to cleaner architecture, more maintainable code, and ultimately, better results for users and clients alike.
+
+---
+
+**Thanks for visiting my profile!** Feel free to explore my repositories or reach out if you'd like to collaborate. 🚀
