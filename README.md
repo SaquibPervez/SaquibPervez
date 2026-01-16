@@ -57,7 +57,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
+  <!-- Strapi logo -->
+  <img src="https://strapi.io/assets/images/logo-hexagon.svg" height="40" alt="Strapi" />
 </div>
+
 
 ---
 
@@ -65,19 +68,23 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaquibPervez&theme=gruvbox&row=2&column=3" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=SaquibPervez&theme=gruvbox&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaquibPervez&show_icons=true&theme=tokyonight" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SaquibPervez&show_icons=true&count_private=true&theme=tokyonight&hide=prs,issues" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaquibPervez&theme=tokyonight" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaquibPervez&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaquibPervez&layout=compact&theme=tokyonight" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaquibPervez&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
