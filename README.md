@@ -1,7 +1,3 @@
-<img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/c41095c4-5026-428c-86ec-ad579730b713" /><div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE3MXUxc3A0eW9ubXR6MzhoaXBwOWdnZmNvZm1lc21ibjNmMzNhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" />
-</div>
-
 ###
 
 <h1 align="center">Hey there 👋, I'm Saquib Pervez</h1>
@@ -58,7 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
   <!-- Strapi logo -->
-  <img src="[https://strapi.io/assets/images/logo-hexagon.svg](https://cdn.brandfetch.io/idlqZpnu18/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B)" height="40" alt="Strapi" />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE3MXUxc3A0eW9ubXR6MzhoaXBwOWdnZmNvZm1lc21ibjNmMzNhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" />
+</div>
 </div>
 
 
