@@ -1,5 +1,5 @@
 ###
-
+ <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE3MXUxc3A0eW9ubXR6MzhoaXBwOWdnZmNvZm1lc21ibjNmMzNhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" />
 <h1 align="center">Hey there 👋, I'm Saquib Pervez</h1>
 <p align="center">A passionate Frontend Developer from Pakistan 🇵🇰</p>
 
@@ -53,8 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <!-- Strapi logo -->
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE3MXUxc3A0eW9ubXR6MzhoaXBwOWdnZmNvZm1lc21ibjNmMzNhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg](https://cdn.brandfetch.io/idlqZpnu18/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B)" height="40" alt="Strapi" />
 </div>
 </div>
 
