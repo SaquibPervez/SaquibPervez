@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="logo" width="400" height="400" />
+  <img src="[https://miro.medium.com/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcxZGpyYmc2aXFsZmk0b2IyZnBpMHN5ZzdxMDg2MnpsZmdpNGV6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif)" alt="logo" width="400" height="400" />
 </p>
 
 ### 👨‍💻 About Me
