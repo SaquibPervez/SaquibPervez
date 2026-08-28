@@ -4,11 +4,11 @@
 
 ### 👨‍💻 About Me
 
-I'm **Saquib Pervez**, a passionate **Frontend Developer** from **Pakistan** 🇵🇰. I specialize in building modern, performant web applications with clean code and intuitive user interfaces.
+I'm **Saquib Pervez**, a passionate **Full Stack/MERN Developer** from **Pakistan** 🇵🇰. I specialize in building modern, performant web applications with clean code and intuitive user interfaces.
 
 **What drives me:**  
-🔭 Currently building responsive web experiences as a professional Frontend Developer  
-🌱 Deepening my expertise in **Next.js** and expanding into full-stack development  
+🔭 Currently building responsive web experiences as a professional MERN Developer  
+🌱 Deepening my expertise in **Backend Development, Python, FastApi, SQL DB** and expanding into full-stack development  
 💡 Enjoy solving complex problems with elegant, maintainable solutions  
 🛌 When not coding, I value quality rest and continuous learning through tech tutorials  
 
@@ -37,7 +37,9 @@ I believe in creating digital products that are not only functional but also del
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 **Currently Learning:**  
-![Next.js](https://img.shields.io/badge/Advanced_Next.js-000000?logo=next.js&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi_Mastery-2F2E8B?logo=strapi&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript_Deep_Dive-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
@@ -59,15 +61,6 @@ I believe in creating digital products that are not only functional but also del
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaquibPervez&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
-
-<div align="center">
-  
-  | **Stats** | **Streak** | **Languages** |
-  | :---: | :---: | :---: |
-  | <img src="https://github-readme-stats.vercel.app/api?username=SaquibPervez&show_icons=true&count_private=true&theme=radical&hide=prs,issues" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaquibPervez&theme=radical" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaquibPervez&layout=compact&theme=radical" alt="Top Languages" /> |
-
-</div>
-
 ---
 
 ### 📬 Let's Connect
