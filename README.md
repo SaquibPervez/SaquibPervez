@@ -58,11 +58,6 @@ I believe in creating digital products that are not only functional but also del
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaquibPervez&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
----
-
 ### 📬 Let's Connect
 
 I'm always open to discussing web development, collaborating on interesting projects, or just having a tech chat!
